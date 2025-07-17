@@ -1,9 +1,9 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama: Abdul Latif
-- NIM: 221080200006
-- Kelas: 6B1
+- Nama:
+- NIM:
+- Kelas:
 - Repo GitHub: [link]
 
 ---
