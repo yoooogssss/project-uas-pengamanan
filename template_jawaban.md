@@ -1,9 +1,9 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama:
-- NIM:
-- Kelas:
+- Nama: Yoga Dwi Anggoro Moekti
+- NIM: 221080200128
+- Kelas: 6B1
 - Repo GitHub: [link]
 
 ---
